@@ -1,0 +1,40 @@
+ínicio 
+ler número 1
+ler número 2
+soma=1+2 
+resultado 3
+Fim
+
+ínicio
+ler número 2
+ler número 1
+subtração=2-1
+resultado=1
+Fim
+
+ínicio
+ler numero 4
+ler numero 2
+multiplicação=4*2
+resultado=8
+resultado
+Fim
+
+ínicio
+ler numero 20
+ler numero 2
+divisão=20/2
+resultado=10
+Fim
+
+ínicio
+ler numero b
+potencia a^b
+resultado=c
+Fim
+
+ínicio
+ler numero b
+raiz  a^/b
+resultado=c
+Fim
